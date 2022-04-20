@@ -1,7 +1,7 @@
 # doc_similiarty
 
 
-# Similarity method compare
+## Similarity method compare
 1. levenshtein & normalized_levenshtein
 2. LongestCommonSubsequence & metric_lcs
 3. Jaccard coefficient
